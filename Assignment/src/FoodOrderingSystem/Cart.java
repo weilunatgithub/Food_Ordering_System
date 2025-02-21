@@ -20,7 +20,7 @@ import java.time.format.DateTimeFormatter;
 public class Cart extends javax.swing.JFrame implements MyInterface {
 
     final private String cart = "Cart.txt";
-    final private String STATUS = "Preparing";
+    final private String STATUS = "PreparinG";
     final private String ORDERSTATUS = "Order Status.txt";
     final private String TXN = "Transaction.txt";
     private String DRID = null;
